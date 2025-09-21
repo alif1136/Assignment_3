@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Assignment 13',
+      title: 'Assignment-3',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
@@ -200,3 +200,4 @@ class HomePageCard extends StatelessWidget {
     );
   }
 }
+
